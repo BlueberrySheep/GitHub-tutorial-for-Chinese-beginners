@@ -2,7 +2,7 @@
 
 - 第一步：跟着[GitHub Docs](https://docs.github.com/cn/get-started/quickstart)的QUICKSTART，创建一个hello-world repository进行练习
 
-- 第二步：Google比较简洁的[GitHub小白入门教程](https://www.codenong.com/s1190000022632919/)
+- 第二步：查看Google比较简洁的[GitHub小白入门教程](https://www.codenong.com/s1190000022632919/)
 
   
 
