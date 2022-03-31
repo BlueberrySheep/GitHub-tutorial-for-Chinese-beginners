@@ -1,4 +1,4 @@
-✅# GitHub入门指南
+✅GitHub入门指南
 
 - 第一步：跟着[GitHub Docs](https://docs.github.com/cn/get-started/quickstart)的QUICKSTART，创建一个hello-world repository进行练习
 
